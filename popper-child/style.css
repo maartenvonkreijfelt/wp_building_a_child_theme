@@ -1,0 +1,14 @@
+/*
+Theme Name: Popper Child Theme
+Theme URI: http://wordpress3a:8888
+Description: A child theme of the popper theme.
+Author: Preludio
+Author URI: http://www.preludio.nl
+Template: popper
+Version: 0.1.0
+*/
+
+@charset "UTF-8";
+/* CSS Document */
+
+@import url("../popper/style.css");
