@@ -14,6 +14,20 @@ Version: 0.1.0
 
 @import url("../popper/style.css");
 
-.site-title{
+.site-title {
     font-weight: 300;
+}
+
+.site-description {
+    font-style: italic;
+}
+
+.sticky::before {
+    display: block;
+    padding: .2em 1em;
+    text-align: right;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 80%;
+    content: "Sticky Post";
+    background-color: hsl(0, 0%, 80%);
 }
