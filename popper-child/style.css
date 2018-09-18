@@ -14,7 +14,6 @@ Version: 0.1.0
 
 @import url("../popper/style.css");
 
-body {
-
-    background: deeppink;
+.site-title{
+    font-weight: 300;
 }
