@@ -12,8 +12,8 @@ Version: 0.1.0
 @import url("../popper/style.css");
 
 body, .widget {
-    1background-color: #2a2c39;
-    color: #333;
+    background-color: #2a2c39;
+    color: #fff;
 }
 
 .site-title {
@@ -34,7 +34,7 @@ body, .widget {
     background-color: hsl(0, 0%, 80%);
 }
 
-/*
+
 .entry-meta,
 #secondary,
 .image-attachment a,
@@ -117,4 +117,3 @@ a:focus,
     background-color: #E9E9EB;
     color: #000;
 }
-*/
